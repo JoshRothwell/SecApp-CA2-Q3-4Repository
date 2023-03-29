@@ -1,3 +1,3 @@
 My Project
 
-> This repository is for the **main** branch.
+> This repository is for the **secure** branch.
